@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build Using React.Js and Firebase.
+#### Visit Bishnu Electricals Store: https://bishnu-electricals-store.web.app/ 
 
 ## Available Scripts
 
