@@ -1,5 +1,6 @@
 Build Using React.Js and Firebase.
-#### Visit Bishnu Electricals Store: https://bishnu-electricals-store.web.app/ 
+# Bishnu Electricals Online Store
+# Link: https://bishnu-electricals-store.web.app/ 
 
 ## Available Scripts
 
